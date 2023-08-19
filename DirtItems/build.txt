@@ -1,0 +1,3 @@
+displayName = DirtItems
+author = Moddingus
+version = 0.1

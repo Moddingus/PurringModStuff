@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6HBsyFj1GHYc1o2D4v2sxbazcfDInN3OlLbzP2xeuBOT9LhABRZHK1gio9bdA0qv/OVE621J9QOTQpBwrRnbGQ==",
+  "success": true,
+  "projectFilePath": "/Users/max/Library/Application Support/Terraria/tModLoader/ModSources/DirtItems/DirtItems.csproj",
+  "expectedPackageFiles": [
+    "/Users/max/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

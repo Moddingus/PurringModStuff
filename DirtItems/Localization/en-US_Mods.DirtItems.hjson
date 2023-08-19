@@ -1,0 +1,42 @@
+Items: {
+	DirtBreastplate: {
+		DisplayName: Dirt Breastplate
+		Tooltip: ""
+	}
+
+	DirtHelmet: {
+		DisplayName: Dirt Helmet
+		Tooltip: ""
+		SetBonus: Mods.DirtItems.Items.DirtHelmet.SetBonus
+	}
+
+	DirtLeggings: {
+		DisplayName: Dirt Leggings
+		Tooltip: ""
+	}
+
+	DirtAxe: {
+		DisplayName: Dirt Axe
+		Tooltip: ""
+	}
+
+	DirtPickaxe: {
+		DisplayName: Dirt Pickaxe
+		Tooltip: ""
+	}
+
+	DirtPrism: {
+		DisplayName: Dirt Prism
+		Tooltip: ""
+	}
+
+	DirtSword: {
+		DisplayName: Dirt Sword
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	DirtBeam.DisplayName: Dirt Beam
+	DirtPrismHoldout.DisplayName: Dirt Prism Holdout
+}
